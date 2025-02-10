@@ -8,5 +8,6 @@ Teaching Instructions:
 - Provide us a table of vocablury
 - Do not provide particles in the vocablury, students need to figure the correct particles to use
 - Provide words in their dictionary form, student needs to figure out conjugations and tenses
+- The table of vocablury should only have the following columns: Japanese, Romaji, English
 
 Student Input: Its so hot here in Mumbai, having 4 air-conditioners also not enough.
