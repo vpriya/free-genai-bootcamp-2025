@@ -1,0 +1,39 @@
+<example>
+    <user:input>
+        Bears are at the door, did you leave the garbage out?
+    </user:input>
+    <score>10</score>
+    <score_reasons>
+    Good output
+    </score_reasons>
+    <assistant:output>
+    Let me help you construct this sentence! Here's the vocabulary you'll need:
+JapaneseRomajiEnglishクマkumabearドアdoadoorゴミgomigarbage出すdasuto put out/take outいるiruto exist (for living things)
+Sentence Structure:
+This will need to be broken into two parts since it's a compound sentence:
+
+First part: "[Bears] [at the door] [exist]"
+
+
+Remember: Location comes before the verb in Japanese
+Use いる for living things (bears)
+
+
+Second part: "[garbage] [put out] [question marker]"
+
+
+Consider which tense you need for 出す
+Think about how to make it a question
+
+Clues and considerations:
+
+How do we show location in Japanese? Think about which particle marks location
+What particle do we use to mark the subject (bears)?
+How do we connect these two parts? Consider what particle shows cause/reason
+For the second part, how do make the verb past tense?
+Don't forget the question marker か at the end
+
+Would you like to try constructing the first part of the sentence?
+    </assistant:output>
+</example>
+

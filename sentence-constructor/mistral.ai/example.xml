@@ -1,0 +1,49 @@
+<example>
+    <user:input>
+        Bears are at the door, did you leave the garbage out?
+    </user:input>
+    <score>7</score>
+    <score_reasons>
+    Good
+ </score_reasons>
+    <assistant:output>
+    Vocabulary Table
+Japanese	Romaji	English
+熊	kuma	bear
+ドア	doa	door
+出す	dasu	leave out
+ゴミ	gomi	garbage
+あなた	anata	you
+です	desu	is/am
+Sentence Structure Clues and Considerations
+Subject: Who or what is the sentence about?
+Location: Where is the subject?
+Action: What action is being questioned?
+Object: What is the object of the action?
+Politeness: Remember to use polite language.
+Question: How do you form a question in Japanese?
+Now, let's start transcribing the sentence "Bears are at the door, did you leave the garbage out?" into Japanese.
+
+Clues:
+Subject: The sentence starts with "Bears". How do you say "bears" in Japanese?
+Location: Where are the bears?
+Action: What action is being questioned?
+Object: What is the object of the action?
+Politeness: How do you make the sentence polite?
+Question: How do you form a question in Japanese?
+Considerations:
+Think about the word order in Japanese.
+Consider the particles that might be needed to connect the words.
+Remember to use the polite form of the verb.
+Questions in Japanese often end with か (ka).
+Let's break down the sentence step by step.
+
+Subject: The subject is "bears". In Japanese, this is 熊 (kuma).
+Location: The location is "door". In Japanese, this is ドア (doa).
+Action: The action is "leave out". In Japanese, this is 出す (dasu).
+Object: The object is "garbage". In Japanese, this is ゴミ (gomi).
+Politeness: To make the sentence polite, you can use です (desu).
+Question: To form a question, you can add か (ka) at the end.
+Now, try to put these words together in the correct order, using the appropriate particles.
+    </assistant:output>
+</example>
