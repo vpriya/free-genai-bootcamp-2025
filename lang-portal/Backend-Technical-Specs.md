@@ -44,15 +44,38 @@ We have the following tables:
     - study_session_id integer
     - group_id integer
     - created_at datetime
-    
+
 -   word_review_items - a record of word practice, determining if the word was       correct or not
     - word_id integer
     - study_session_id integer
     - correct boolean
     - created_at datetime
 
+### API Endpoints
 
-
+- GET /api/dashboard/last_study_session
+- GET /api/dashboard/study_progress
+- GET /api/dashboard/quick_stats
+- GET /api/study_activities/:id
+- GET /api/study_activities/:id/study_sessions
+- POST /api/study_activities
+    - required params: group_id, study_activity_id
+- GET /api/words
+    - pagination with 100 items per page
+- GET /api/words/:id
+- GET /api/groups
+    - pagination with 100 items per page
+- GET /api/groups/:id
+- GET /api/groups/:id/words
+- GET /api/groups/:id/study_sessions
+- GET /api/study_sessions
+    - pagination with 100 items per page
+- GET /api/study_sessions/:id
+- GET /api/study_sessions/:id/words
+- POST /api/reset_history
+- POST /api/full_reset
+- POST /api/study_sessions/:study_session_id/words/:word_id/review
+    - required params: correct
 
 
 
