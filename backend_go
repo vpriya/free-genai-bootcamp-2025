@@ -1,0 +1,4 @@
+mkdir -p cmd/server
+mkdir -p internal/{handlers,models,services}
+mkdir -p db/{migrations,seeds}
+mkdir -p magefiles 
